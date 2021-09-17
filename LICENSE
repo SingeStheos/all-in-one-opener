@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2021 Singe Stheos
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify except under private conditions (see line 23), merge, 
+publish, and/or distribute, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+AFTERWORD:
+I want everyone to get the best things out of my software. Of the conditions 
+of the MIT license, I have removed 2 (publish, sublicense) and altered 1 
+(modification). These are to protect the sanity of my code and ensure that
+scalping (the intentional resale of a product at a higher price to generate
+revenue) and private modification does not happen. Other than the conditions
+I have removed, you are free to do whatever you would like to this software
+in an additive fashion. Destruction of our code wastes our effort, which we
+have a limited supply of.
+
+Concise version:
+I dont want you to make a profit off of our software, nor should you make a 
+demo of it for intention of profit. You should modify this software with 
+intent to share the code with others, else you break this license.
